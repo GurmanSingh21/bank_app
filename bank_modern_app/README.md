@@ -1,3 +1,3 @@
-# Hoobank 🔗(https://guruhoobank.netlify.app/)
+# Hoobank [🔗](https://guruhoobank.netlify.app/)
 
 This app is built using React + Vite
